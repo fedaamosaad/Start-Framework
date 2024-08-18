@@ -1,0 +1,15 @@
+.home{
+   
+    background-color: var(--main-color);
+   
+}
+.home h2 ,.home i,.home p{
+ color: #1A2A3A
+}
+
+
+.line{
+    height: 4px;
+    width: 80px;
+    background-color: #1A2A3A
+}

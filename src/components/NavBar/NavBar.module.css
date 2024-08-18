@@ -1,0 +1,13 @@
+.navbar{
+    background-color: var(--second-color) !important;
+    width: auto !important;
+    
+}
+.navbar a{
+   color: #fbf8e6; 
+   transition: all ease-in-out 0.3s;
+   width: max-content;
+}
+svg{
+    color: #fbf8e6; 
+}

@@ -1,0 +1,59 @@
+
+
+@media screen and (min-width: 992px) {
+    .text {
+        width: 50% !important
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .text {
+        width: 70%
+    }
+}
+.label{
+    
+    top: 100%;
+    transition: all 0.5s;
+}
+input::placeholder{
+    color: #1A2A3A !important;
+}
+input:focus{
+    outline: none ;
+}
+.goUp{
+top: -22px
+;opacity: 1 !important;
+left: 18%
+}
+.btn{
+    background-color: #1A2A3A;
+    color: var(--text-color);
+    padding: 5px 10px;
+    border-radius: 8px;
+}
+.btn:hover{
+    background-color: var(--text-color);
+    color: #1A2A3A;
+}
+.head {
+    font-weight: 900;
+
+}
+
+.line {
+    height: 4px;
+    width: 80px;
+    background-color: #1A2A3A
+}
+.textMain {
+    color: var(--second-color);
+    top: 0;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    padding-left: 5px;
+}

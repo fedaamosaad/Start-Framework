@@ -1,0 +1,21 @@
+.footer{
+    background-color:var(  --second-color) !important;
+   
+}
+.footer h3 ,.footer p, .footer i{
+color: var(--second-color) ;
+}
+.footer i{
+    transition: all 0.5s;
+}
+.footer h3{
+    font-size: 23px;
+    font-weight: 550;
+margin-bottom: 5px;
+}
+.footer .icons{
+border-color: #fbf8e6;
+}
+.lowerfooter p{
+     color: #fbf8e6;
+}
